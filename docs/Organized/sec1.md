@@ -1,3 +1,9 @@
+---
+lang: zh-CN
+title: Duolingo
+description: some description
+---
+
 # Section 1
 
 ## 1
