@@ -1,0 +1,30 @@
+name: Deploy VuePress Docker Site
+
+on:
+  push:
+    branches:
+      - main  # This will trigger on push to the main branch
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checkout the repository
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    # Build the Docker image
+    - name: Build Docker image
+      run: docker build -t vuepress-site .
+
+    # Run Docker container to build the VuePress site
+    - name: Run Docker container to build site
+      run: docker run vuepress-site
+
+    # Set up GitHub Pages for deployment
+    - name: Setup GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: docs/.vuepress/dist
