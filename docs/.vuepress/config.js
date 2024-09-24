@@ -3,7 +3,8 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
-  bundler: viteBundler(),
+  //bundler: viteBundler(),
+  base: '/english-starter/',
   theme: defaultTheme({
     logo: '/english-starter/images/logo.png',
     navbar: false,
@@ -33,6 +34,6 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: '你好， VuePress ！',
   description: '这是我的第一个 VuePress 站点',
-  base: '/english-starter/',
+ 
 })
 
