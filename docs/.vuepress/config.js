@@ -5,7 +5,7 @@ import { defineUserConfig } from 'vuepress'
 export default defineUserConfig({
   bundler: viteBundler(),
   theme: defaultTheme({
-    logo: './images/logo.png',
+    logo: '/english-starter/images/logo.png',
     navbar: false,
     sidebar: {
       '/': [
