@@ -22,7 +22,7 @@ export default defineUserConfig({
           text: 'Additional Pages',  // Another section title
           collapsable: true,         // This section is collapsible
           children: [
-            '/Doc2/page3.md',      // Links to folder/page3.md
+            '/Doc2/page3.md',     
           ],
         }
       ]
