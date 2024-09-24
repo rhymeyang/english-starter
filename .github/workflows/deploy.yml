@@ -42,7 +42,7 @@ jobs:
       # https://rhymeyang.github.io/english-starter
       - name: Deploy to GitHub Pages
         #uses: crazy-max/ghaction-github-pages@v4
-        uses: rhymeyang/english-starter@4
+        uses: rhymeyang/english-starter
         with:
           # 部署到 gh-pages 分支
           target_branch: gh-pages
