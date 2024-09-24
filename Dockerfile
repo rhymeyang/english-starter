@@ -16,7 +16,8 @@ RUN npm install
 COPY . .
 
 # Build the VuePress site (the output will be in docs/.vuepress/dist)
-RUN npm run build
+# RUN npm run build
+RUN npm run build --verbose
 
 
 # Stage 2: Serve the VuePress site using NGINX
