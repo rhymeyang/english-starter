@@ -11,18 +11,29 @@ export default defineUserConfig({
     sidebar: {
       '/': [
         {
-          text: 'Main Pages',  // Sidebar section title
+          text: 'Main Pages',
           children: [
-            '/',              // Links to README.md (home page)
+            '/',
             '/Organized/sec1.md',
             '/Organized/sec2.md',
           ],
         },
         {
-          text: 'Additional Pages',  // Another section title
-          collapsable: true,         // This section is collapsible
+          text: 'Vocabulary',
+          collapsable: true,
           children: [
-            '/Doc2/page3.md',     
+            { text: 'Unregular Verb', link: '/Vocabulary/Verb.md' },
+           
+          ],
+        },
+        {
+          text: 'Article',
+          collapsable: true,
+          children: [
+            { text: 'cyber risks in real estate', link: '/Article/Real.md' },
+            { text: 'Smart Building Market', link: '/Article/smartBuilding.md' },
+            { text: 'Canadian Businesses Cyber Threats', link: '/Article/SurveyBusiness.md' },
+
           ],
         }
       ]
@@ -34,6 +45,6 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: '你好， VuePress ！',
   description: '这是我的第一个 VuePress 站点',
- 
+
 })
 
