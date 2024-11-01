@@ -27,6 +27,15 @@ export default defineUserConfig({
           ],
         },
         {
+          text: 'IELTS',
+          collapsable: true,
+          children: [
+            { text: 'General', link: '/IELTS/General.md' },
+            { text: 'General Writing 1', link: '/IELTS/Writing01.md' },
+            { text: 'General Writing 2', link: '/IELTS/Writing02.md' },
+          ],
+        },
+        {
           text: 'Article',
           collapsable: true,
           children: [
