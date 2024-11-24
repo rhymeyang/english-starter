@@ -10,20 +10,20 @@ export default defineUserConfig({
     contributors: false,
     navbar: [
       {
-        text: 'Home',
-        link: '/',
+        text: 'Vivian',
+        link: '/../vivian/',
       },
       {
         text: 'Recipe',
-        link: 'https://rhymeyang.github.io/recipe/',
+        link: '/../recipe/',
       },
       {
         text: 'English',
-        link: 'https://rhymeyang.github.io/english-starter/',
+        link: '/../english-starter/',
       },
       {
         text: 'Semester 3',
-        link: 'https://rhymeyang.github.io/Se/',
+        link: '/../Se/',
       }
     ],
     sidebar: {
