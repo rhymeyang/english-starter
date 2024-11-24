@@ -7,6 +7,7 @@ export default defineUserConfig({
   base: '/english-starter/',
   theme: defaultTheme({
     logo: '/images/leaf.svg',
+    contributors: false,
     navbar: [
       {
         text: 'Home',
