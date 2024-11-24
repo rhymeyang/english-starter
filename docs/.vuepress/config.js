@@ -6,8 +6,25 @@ export default defineUserConfig({
   bundler: viteBundler(),
   base: '/english-starter/',
   theme: defaultTheme({
-    logo: '/english-starter/images/logo.png',
-    navbar: false,
+    logo: '/images/leaf.svg',
+    navbar: [
+      {
+        text: 'Home',
+        link: '/',
+      },
+      {
+        text: 'Recipe',
+        link: 'https://rhymeyang.github.io/recipe/',
+      },
+      {
+        text: 'English',
+        link: 'https://rhymeyang.github.io/english-starter/',
+      },
+      {
+        text: 'Semester 3',
+        link: 'https://rhymeyang.github.io/Se/',
+      }
+    ],
     sidebar: {
       '/': [
         {
@@ -52,8 +69,8 @@ export default defineUserConfig({
 
 
   lang: 'zh-CN',
-  title: '你好， VuePress ！',
-  description: '这是我的第一个 VuePress 站点',
+  title: "Vicky's Page",
+  description: 'VuePress Site',
 
 })
 
