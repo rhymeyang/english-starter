@@ -41,7 +41,16 @@ export default defineUserConfig({
           collapsable: true,
           children: [
             { text: 'Unregular Verb', link: '/Vocabulary/Verb.md' },
-           
+
+          ],
+        },
+        {
+          text: 'Grammar',
+          collapsable: true,
+          children: [
+            { text: 'Tense', link: '/Grammar/Tense.md' },
+            { text: 'Subjunctive Mood', link: '/Grammar/SubjunctiveMood.md' },
+            
           ],
         },
         {
