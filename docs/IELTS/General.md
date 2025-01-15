@@ -1,9 +1,8 @@
 # IELTS Test
 
-+ [留星网](https://www.liustar.cn/)
-+ [IELTS General Training - paper sample tests](https://ielts.org/take-a-test/preparation-resources/sample-test-questions/general-training-test)
-
-
+- [留星网](https://www.liustar.cn/)
+- [IELTS General Training - paper sample tests](https://ielts.org/take-a-test/preparation-resources/sample-test-questions/general-training-test)
+- [general-reading-sample](https://ielts-up.com/reading/general-reading-sample-1.1.html)
 
 The IELTS Writing test has two formats: **Academic** and **General Training**. Here’s a comparison of the differences between them:
 
@@ -45,4 +44,3 @@ Both versions have two tasks, but the types of tasks differ:
 | **Audience** | Academic/professional                | General/social                              |
 
 In summary, **IELTS Academic** is more formal and data-driven, suited to higher education or professional contexts, while **IELTS General Training** assesses practical, everyday writing skills.
-

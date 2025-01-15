@@ -1,6 +1,6 @@
 ---
 lang: zh-CN
-title: Duolingo
+title: Section 1
 description: some description
 ---
 

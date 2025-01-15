@@ -32,8 +32,16 @@ export default defineUserConfig({
           text: 'Main Pages',
           children: [
             '/',
-            '/Organized/sec1.md',
-            '/Organized/sec2.md',
+          ],
+        },
+        {
+          text: 'Duolingo',
+          children: [
+            '/Duo/Organized/sec01.md',
+            '/Duo/Organized/sec02.md',
+            '/Duo/Organized/sec03.md',
+            '/Duo/Organized/sec04.md',
+            '/Duo/Organized/sec05.md',
           ],
         },
         {
