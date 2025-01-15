@@ -35,6 +35,13 @@ export default defineUserConfig({
           ],
         },
         {
+          text: 'Reading',
+          children: [
+            '/Reading/01.md',
+
+          ],
+        },
+        {
           text: 'Duolingo',
           children: [
             '/Duo/Organized/sec01.md',
@@ -58,7 +65,7 @@ export default defineUserConfig({
           children: [
             { text: 'Tense', link: '/Grammar/Tense.md' },
             { text: 'Subjunctive Mood', link: '/Grammar/SubjunctiveMood.md' },
-            
+
           ],
         },
         {
