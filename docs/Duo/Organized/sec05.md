@@ -203,52 +203,52 @@ description: some description
 9. We should have a meeting at three thirty, shouldn't we?
 10. There's **a** discount on all of the second hand jewelry.
 11. Oxford is a well known university in England.
-12. She bought some furniture at the flea market.
-13. I'm glad that my internet isn't slow today.
-14. Don't go anywhere by yourself.
-15. Can you describe the plants you saw?
-16. You should go fishing over there because the water is deep.
-17. Don't go camping in the forest by yourself.
-18. The temperatures are very low during the winter.
-19. Can you describe the animals that live in this forest?
-20. The lake near the mountain is very deep.
-21. Do you know the temperature now?
-22. Is the river deep over there?
-23. Can you describe the animals you saw?
-24. 在这片森林里，有许多种类的树木。
+12. I'm glad that my internet isn't slow today.
+13. Don't go anywhere by yourself.
+14. Can you describe the plants you saw?
+15. You should go fishing over there because the water is deep.
+16. Don't go camping in the forest by yourself.
+17. The temperatures are very low during the winter.
+18. Can you describe the animals that live in this forest?
+19. The lake near the mountain is very deep.
+20. Do you know the temperature now?
+21. Is the river deep over there?
+22. Can you describe the animals you saw?
+23. 在这片森林里，有许多种类的树木。
     1. In this forest, there are many varieties of trees.
-25. 你会在这里看到各种野生动物。
+24. 你会在这里看到各种野生动物。
     1. You'll see a variety of wild animals here.
-26. Many varieties of monkeys live in this forest.
-27. At night, the temperatures in this forest are low.
-28. I can hear the sound of the wind.
-29. That baby monkey is cute, isn't it?
-30. Is the bear around here?
-31. Can you hear the bear?
-32. The baby bear is so cute.
-33. It's a black rabbit, isn't it?
-34. These monkeys make very loud sound**s**.
-35. Can you hear that sound?
-36. It's a rabbit, isn't it?
-37. It's a baby bear, isn't it?
-38. 鸟可能会在这附近。
+25. Many varieties of monkeys live in this forest.
+26. At night, the temperatures in this forest are low.
+27. I can hear the sound of the wind.
+28. That baby monkey is cute, isn't it?
+29. Is the bear around here?
+30. Can you hear the bear?
+31. The baby bear is so cute.
+32. It's a black rabbit, isn't it?
+33. These monkeys make very loud sound**s**.
+34. Can you hear that sound?
+35. It's a rabbit, isn't it?
+36. It's a baby bear, isn't it?
+37. 鸟可能会在这附近。
     1. The birds might **be** around here.
-39. I don't like that sound.
-40. Those baby rabbits are so small!
-41. These baby rabbits are small and cute.
-42. My favorite singer has **dark brown hair**.
-43. 八月十五号
+38. I don't like that sound.
+39. Those baby rabbits are so small!
+40. These baby rabbits are small and cute.
+41. My favorite singer has **dark brown hair**.
+42. 八月十五号
     1. August fifteenth
-44. My dad has **blond hair** and **light green eyes**.
-45. 好的，到时候见！
+43. My dad has **blond hair** and **light green eyes**.
+44. 好的，到时候见！
     1. OK, see you then!
-46. Mrs. Wang is my colleague.
-47. Let's play this **board game**!
-48. 我会想想这个问题，然后给你打电话。
+45. Mrs. Wang is my colleague.
+46. Let's play this **board game**!
+47. 我会想想这个问题，然后给你打电话。
     1. I'll think about this question, and then I'll call you.
     2. I'll think about this problem and then call you.
-49. Do you put on makeup when you work from home?
-50. I don't want to stay with my kids all the time.
+48. Do you put on makeup when you work from home?
+49. I don't want to stay with my kids all the time.
+50. Last time I ordered soup there, it tasted terrible.
 
 ## 5.
 
@@ -507,6 +507,7 @@ description: some description
 48. I cannot stop missing you.
 49. I really miss that park.
     1. Oh, how often did you go there?
+50. Ben is **allergic** to milk, so he can’t eat cheese.
 
 ## 9.
 

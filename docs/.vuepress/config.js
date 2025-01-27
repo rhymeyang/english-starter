@@ -49,6 +49,7 @@ export default defineUserConfig({
             '/Duo/Organized/sec03.md',
             '/Duo/Organized/sec04.md',
             '/Duo/Organized/sec05.md',
+            '/Duo/Organized/sec06.md',
           ],
         },
         {
