@@ -3,6 +3,42 @@
 - [留星网](https://www.liustar.cn/)
 - [IELTS General Training - paper sample tests](https://ielts.org/take-a-test/preparation-resources/sample-test-questions/general-training-test)
 - [general-reading-sample](https://ielts-up.com/reading/general-reading-sample-1.1.html)
+- [雅思真题免费在线测试及答案 | IELTS Online Tests](https://ieltsonlinetests.com/zh-hans/ielts-exam-library)
+- [mini-ielts](https://mini-ielts.com/1512/reading/how-the-mind-ages)
+- [mini-ielts](https://mini-ielts.com/)
+- https://www.ilac.com/wp-content/uploads/2022/07/Pathway-Partner-List-2022-JULY_25a.pdf
+- [oupcanada - ilac](https://cw.oupcanada.com/ilac)
+
+## Youtube
+
+- [IELTSDaily](https://www.youtube.com/@IELTSDaily)
+- [E2IELTS](https://www.youtube.com/@E2IELTS)
+- [FasTrackIELTS](https://www.youtube.com/@FasTrackIELTS/featured)
+- [TheIELTSListeningTest](https://www.youtube.com/@TheIELTSListeningTest)
+- [CrackIELTSwithRob](https://www.youtube.com/@CrackIELTSwithRob)
+
+## IELTS Liz
+
+- [IELTS Advantage Disadvantage Model Essay](https://ieltsliz.com/ielts-advantage-disadvantage-model-essay/)
+- [Do the advantages outweigh the disadvantages?](https://ieltsliz.com/do-the-advantages-outweigh-the-disadvantages/)
+- [IELTS Advantage Disadvantage Sample Essay Questions](https://ieltsliz.com/ielts-advantage-disadvantage-sample-essay-questions/)
+- [IELTS Agree Disagree Essay Sample Answer](https://ieltsliz.com/ielts-agree-disagree-essay-sample-answer/)
+- [IELTS Writing Task 1: Pie Chart Model Score 9](https://ieltsliz.com/ielts-pie-chart-task-1-model-score-9/)
+- [IELTS Map: Model Answer](https://ieltsliz.com/ielts-map-model-answer/)
+
+## simon
+
+- [Simon - flow chart essay](https://www.ielts-simon.com/ielts-help-and-english-pr/2013/10/ielts-writing-task-1-flow-chart-essay.html?authuser=0)
+
+## Material
+
+- [ielts-up.com](https://ielts-up.com/writing/pie-chart.html)
+- [britannica](https://www.britannica.com/procon)
+- https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf
+- https://ourworldindata.org/
+- 
+
+## Description
 
 The IELTS Writing test has two formats: **Academic** and **General Training**. Here’s a comparison of the differences between them:
 
