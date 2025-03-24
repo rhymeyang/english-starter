@@ -35,9 +35,17 @@ export default defineUserConfig({
           ],
         },
         {
-          text: 'Reading',
+          text: 'General',
           children: [
-            '/Reading/01.md',
+            '/General/01.md',
+            '/General/Sharon/60.md',
+
+          ],
+        },
+        {
+          text: 'Driving Test',
+          children: [
+            '/Drive/01.md',
 
           ],
         },
