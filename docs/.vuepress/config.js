@@ -90,9 +90,10 @@ export default defineUserConfig({
           text: 'Article',
           collapsable: true,
           children: [
-            { text: 'cyber risks in real estate', link: '/Article/Real.md' },
-            { text: 'Smart Building Market', link: '/Article/smartBuilding.md' },
-            { text: 'Canadian Businesses Cyber Threats', link: '/Article/SurveyBusiness.md' },
+            '/Article/Model.md',
+            '/Article/Real.md',
+            '/Article/smartBuilding.md',
+            '/Article/SurveyBusiness.md'
 
           ],
         }
