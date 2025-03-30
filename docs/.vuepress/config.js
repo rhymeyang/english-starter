@@ -93,8 +93,8 @@ export default defineUserConfig({
             '/Article/Model.md',
             '/Article/Real.md',
             '/Article/smartBuilding.md',
-            '/Article/SurveyBusiness.md'
-
+            '/Article/SurveyBusiness.md',
+            '/Article/WhitePeopleMeal.md',
           ],
         }
       ]
