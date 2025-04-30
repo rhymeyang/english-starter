@@ -95,7 +95,8 @@ export default defineUserConfig({
             '/Article/smartBuilding.md',
             '/Article/SurveyBusiness.md',
             '/Article/WhitePeopleMeal.md',
-            '/Article/Bitcoin.md'
+            '/Article/Bitcoin.md',
+            '/Article/Tesla.md',
           ],
         }
       ]
