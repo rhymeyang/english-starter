@@ -50,7 +50,7 @@ These qualities make the meal quick to put together and easy to clean up, which 
 
 ## Common Examples of “White People Meal” Foods
 
-![白人餐](/Article/white-people-meal.png) _A Chinese social media post showing an extreme example of “白人餐”: a coworker’s lunch consisting of a few raw baby carrots and spinach leaves. Netizens joked that such a meal implies the person has “evolved away their appetite,” humorously suggesting that only someone with no need for flavor could find this sufficient._
+![白人餐](/images/Article/white-people-meal.png) _A Chinese social media post showing an extreme example of “白人餐”: a coworker’s lunch consisting of a few raw baby carrots and spinach leaves. Netizens joked that such a meal implies the person has “evolved away their appetite,” humorously suggesting that only someone with no need for flavor could find this sufficient._
 
 Chinese netizens have shared many eye-opening examples of what they call **“白人餐.”** Here are some typical meals that fall under this label:
 
