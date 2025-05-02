@@ -1,3 +1,8 @@
+---
+lang: zh-CN
+title: China seeks to douse speculation of shrinking population
+description: some description
+---
 # China seeks to douse speculation of shrinking population
 
 April 28, 202111:41 PM PDT

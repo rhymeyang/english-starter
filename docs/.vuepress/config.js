@@ -43,6 +43,12 @@ export default defineUserConfig({
           ],
         },
         {
+          text: 'LEC',
+          children: [
+            '/LEC/215.md',
+          ],
+        },
+        {
           text: 'Driving Test',
           children: [
             '/Drive/01.md',
@@ -90,6 +96,7 @@ export default defineUserConfig({
           text: 'Article',
           collapsable: true,
           children: [
+            '/Article/ChinaPopulation.md',
             '/Article/Model.md',
             '/Article/Real.md',
             '/Article/smartBuilding.md',
