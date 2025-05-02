@@ -46,6 +46,7 @@ export default defineUserConfig({
           text: 'LEC',
           children: [
             '/LEC/215.md',
+            '/LEC/224.md',
           ],
         },
         {
