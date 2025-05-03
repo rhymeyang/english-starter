@@ -6,7 +6,7 @@ export default defineUserConfig({
   bundler: viteBundler(),
   base: '/english-starter/',
   theme: defaultTheme({
-    logo: '/images/leaf.svg',
+    logo: 'favicon.ico',
     contributors: false,
     navbar: [
       {
