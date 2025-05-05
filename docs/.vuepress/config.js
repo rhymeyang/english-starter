@@ -35,18 +35,18 @@ export default defineUserConfig({
           ],
         },
         {
-          text: 'General',
+          text: 'Sharon',
           children: [
-            '/General/01.md',
             '/General/Sharon/60.md',
-
           ],
         },
         {
           text: 'LEC',
           children: [
-            '/LEC/215.md',
-            '/LEC/224.md',
+            '/General/LEC/W_110.md',
+            '/General/LEC/215.md',
+            '/General/LEC/224.md',
+            '/General/LEC/225.md',
           ],
         },
         {
