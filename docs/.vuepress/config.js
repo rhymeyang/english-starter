@@ -41,12 +41,20 @@ export default defineUserConfig({
           ],
         },
         {
-          text: 'LEC',
+          text: 'LEC - Journal',
           children: [
-            '/General/LEC/W_110.md',
-            '/General/LEC/215.md',
-            '/General/LEC/224.md',
-            '/General/LEC/225.md',
+            '/General/LEC/Journal/110.md',
+            '/General/LEC/Journal/122.md',
+          ],
+        },
+        {
+          text: 'LEC - News',
+          children: [
+            '/General/LEC/News/100.md',
+            '/General/LEC/News/196.md',
+            '/General/LEC/News/215.md',
+            '/General/LEC/News/224.md',
+            '/General/LEC/News/225.md',
           ],
         },
         {
