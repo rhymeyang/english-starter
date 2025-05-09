@@ -48,7 +48,7 @@ export default defineUserConfig({
           ],
         },
         {
-          text: 'LEC - News',
+          text: 'LEC - News - 读懂英语新闻',
           children: [
             '/General/LEC/News/100.md',
             '/General/LEC/News/196.md',
